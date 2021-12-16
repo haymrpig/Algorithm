@@ -2,7 +2,7 @@
 #include <vector>
 #include <map>
 #include <algorithm>
-//start 17:47
+
 using namespace std;
 bool compare(int a, int b) {
 	if (a > b) return true;
