@@ -13,7 +13,7 @@ void rotate(vector<int>& cctv){
 }
 
 void check(vector<vector<int>>& room, vector<vector<bool>>& cctv){
-    
+    check;
 }
 int main(){
     int N, M;
